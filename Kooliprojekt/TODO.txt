@@ -1,0 +1,11 @@
+﻿Files
+	-extension validation
+	-check if image for selected artist exists, if so then notify the user
+
+Schedule
+	-validate time according to tempo number
+
+Storage : Songs
+	-fix cascade delete
+
+-on main page showcase some Artists
